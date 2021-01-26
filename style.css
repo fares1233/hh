@@ -1,0 +1,85 @@
+h1 ,h2 {
+    
+    color: red;
+    font-family: Helvetica Neue, Arial;
+    font-size: 40px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p{
+    color: green;
+    font-family:  Helvetica Neue, Arial;
+    font-size: 15px;
+}
+
+.fares{
+    margin-bottom: 20px
+}
+
+#mohamed{
+    margin-bottom: 15px;
+}
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.one {
+    width: 75%;
+    float: left;
+    position: relative;
+}
+
+.two {
+    width: 25%;
+    float: left;
+}
+
+.three {
+    padding-top: 20px;
+    border-top: 1px solid #7e7e7e; 
+}
+
+.other {
+    margin-bottom: 40px;
+}
+
+.three img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+
+.author-text{
+    font-size: 20px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.one img{
+    height: 150px;
+    width: auto;
+}
+
+.date{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
